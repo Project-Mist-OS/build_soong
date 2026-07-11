@@ -303,6 +303,7 @@ oplus\..*
 vendor\.oplus\..*
 com\.oneplus\..*
 vendor\.oneplus\..*
+com\.color\..*
 
 # QC adds
 com.qualcomm.qti
